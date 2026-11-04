@@ -1,0 +1,6 @@
+{
+  "name": "Smart Face & Geofence Attendance",
+  "description": "Biometric face verification and geofenced attendance tracking with Supabase and face-api.js.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
